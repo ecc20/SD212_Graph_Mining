@@ -2,7 +2,7 @@
 
 * Use of the scikit-network package for graph analysis
 
-**Labs on:**
+**Labs:**
 * Sampling (Lab1)
 * Graph structure (Lab2)
 * PageRank (Lab3)
