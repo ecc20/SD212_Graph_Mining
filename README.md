@@ -1,5 +1,7 @@
 # SD212_Graph_Mining
 
+* Use of the scikit-network package for graph analysis
+
 **Labs on:**
 * Sampling (Lab1)
 * Graph structure (Lab2)
